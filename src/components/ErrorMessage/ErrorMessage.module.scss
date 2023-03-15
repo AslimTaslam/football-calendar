@@ -1,0 +1,15 @@
+.error-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: darkslategrey;
+
+  &__label {
+    color: darkred;
+  }
+
+  &__icon {
+    width: 150px;
+  }
+}

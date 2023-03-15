@@ -1,0 +1,43 @@
+.event-card {
+  background: #133b6e;
+  padding: 10px;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 3px 2px rgba(0, 0, 0, 0.5);
+
+  &:hover {
+    box-shadow: 0 2px 3px 2px rgba(0, 0, 0, 0.8);
+  }
+
+  &__teams {
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    margin: 0 10px;
+  }
+
+  &__score {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+  }
+
+  &__info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  // todo: change to classname
+  img {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+  }
+
+  // todo: change to classname
+  h3 {
+    text-align: center;
+  }
+}
