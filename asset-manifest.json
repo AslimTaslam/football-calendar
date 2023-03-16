@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/football-calendar/static/css/main.79049e16.css",
+    "main.js": "/football-calendar/static/js/main.dc9020a3.js",
+    "static/media/goalIcon.svg": "/football-calendar/static/media/goalIcon.c9cf0a0b9f7b21d77727ae1ca8edcaa5.svg",
+    "index.html": "/football-calendar/index.html",
+    "main.79049e16.css.map": "/football-calendar/static/css/main.79049e16.css.map",
+    "main.dc9020a3.js.map": "/football-calendar/static/js/main.dc9020a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79049e16.css",
+    "static/js/main.dc9020a3.js"
+  ]
+}
