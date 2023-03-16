@@ -1,9 +1,9 @@
 .event-card {
-  background: #133b6e;
+  background: linear-gradient(120deg, #133b6e, #1d4e8f);
   padding: 10px;
   color: #fff;
   border-radius: 5px;
-  box-shadow: 0 2px 3px 2px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 3px 2px rgba(0, 0, 0, 0.4);
 
   &:hover {
     box-shadow: 0 2px 3px 2px rgba(0, 0, 0, 0.8);

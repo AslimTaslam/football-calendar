@@ -1,0 +1,21 @@
+.search-panel {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin: 5px auto 15px;
+  max-width: 1000px;
+  color: lightgrey;
+  &__input {
+    width: 300px;
+    padding: 5px 5px 5px 25px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+  }
+  &__input:focus {
+    outline: 1px solid darkgray;
+  }
+  &__icon {
+    position: absolute;
+    padding: 5px;
+  }
+}
