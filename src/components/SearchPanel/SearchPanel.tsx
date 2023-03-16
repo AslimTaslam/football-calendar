@@ -1,5 +1,4 @@
-import { FC, useState } from "react";
-import { IEvent } from "../../models/models";
+import { FC } from "react";
 import { FaSearch } from "react-icons/fa";
 import styles from "./SearchPanel.module.scss";
 
